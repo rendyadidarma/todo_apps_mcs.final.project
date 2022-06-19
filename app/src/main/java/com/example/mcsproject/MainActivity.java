@@ -1,3 +1,8 @@
+// KELOMPOK 8
+// 2440026244 - Rendy Adidarma
+// 2440079282 - Vincent Bryan Goenadi
+// 2440009585 - Maximillian Lemuel Chanyassen
+
 package com.example.mcsproject;
 
 import androidx.annotation.Nullable;
@@ -24,11 +29,6 @@ import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.FirebaseFirestoreException;
 import com.google.firebase.firestore.QueryDocumentSnapshot;
 import com.google.firebase.firestore.QuerySnapshot;
-
-// KELOMPOK 8
-// 2440026244 - Rendy Adidarma
-// 2440079282 - Vincent Bryan Goenadi
-// 2440009585 - Maximillian Lemuel Chanyassen
 
 public class MainActivity extends AppCompatActivity {
 
